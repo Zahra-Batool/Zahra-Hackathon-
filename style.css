@@ -1,0 +1,209 @@
+
+.navgap{
+row-gap: 50px !important;
+
+}
+.card-btn{
+  align-self: end;
+  justify-items: center;
+  margin-bottom: -50px;
+
+}
+.client img, h3{
+  display: inline;
+}
+.left{
+  position: absolute;
+padding-left: 50px;
+display: flex;
+align-self: flex-start;
+ 
+}
+h1{
+  font-weight: bolder;
+}
+.test{
+  position: relative;
+  text-align: center ;
+  padding-top: 50px;
+}
+.test p{
+  padding-left: 200px;
+  padding-right: 200px;
+  text-align: left;
+}
+
+.ma{
+  color: #FDAC0B;
+  ;
+  
+}
+.navsearch{
+margin-top: 10px !important;
+
+}
+
+.main{
+margin-right: 650px !important;
+
+}
+
+.home{
+    margin-right: 650px !important;
+
+}
+.veg{
+font-weight: bolder !important;
+
+font-size: 4rem !important;
+}
+
+.shop{
+    font-weight: bolder !important;
+    color:rgb(255, 159, 33) !important;
+    font-size: 4rem !important;
+    }
+
+.hero{
+  margin-top: 30px;
+display: flex;
+width: 90%!important;
+box-sizing: border-box;
+}
+.img {
+  width: 40%;
+}
+.imgsection{
+  width: 50%;
+}
+.social{
+  width: 9%;
+  
+}
+
+.bt1 button{
+    background-color:#ffd901 !important;
+    color: white !important;
+    border: none !important;
+    margin-right: 40px !important;
+    margin-top: 20px !important;
+padding: 5px 15px
+}
+.bt2 button{
+   
+     background-color: black !important;
+     color: white !important;
+    border: none !important;
+    padding: 5px 15px;
+
+}
+
+.about{
+display:block;
+text-align: center;
+justify-content:center ;
+margin-top: 35px;
+}
+
+.about button{
+    background-color: black !important;
+    color: white !important;  
+    margin: 50px !important;
+}
+
+.br{
+  color: #FF9603;
+}
+.crd{
+  text-align: center ;
+  font-weight: bolder;
+}
+.carde{
+  margin: 35px;
+  padding: 15px;
+  border: 8px dotted black!important;
+}
+span .btn {
+margin-left: 20% !important;
+ padding: 5px 20px;
+}
+.cardsection{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 15px;
+  margin:15px;
+}
+.social span{
+ display: flex;
+ height: 3rem;
+ flex-direction : column;
+ margin-top:50px;
+ margin-left: 5px;
+}
+.fa-facebook{
+  color: white;
+  background-color: #0D91EE;
+  margin-bottom: 0px;
+}
+.fa-x-twitter{
+    color: white;
+margin-top: 0px;
+margin-bottom: 0px;
+  background-color: #1A1919
+}
+.fa-pinterest{
+    color: white;
+
+  background-color: #F90A2C;
+}
+.fa-share-nodes{
+    color: white;
+
+  background-color: #27E504;
+}
+.contact{
+    background-color: #F6F6FA;
+  padding: 100px;
+  margin-top: 50px;
+  box-sizing: border-box;
+  width: 100%;
+  text-align: center;
+
+}
+.lastbtn button{
+  border-radius: 20px;
+  padding: 5px 25px;
+}
+.whychoose{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 150px;
+  background-color: #F6F6FA;
+  margin-top: 50px;
+}
+
+.footer{
+  display:flex;
+  flex-direction : row ;
+  width: 100%;
+  justify-content: space-evenly;
+  background-color: #1D1D1D;
+  color: white;
+  height: 300px;
+}
+.f1{
+  width: 30%;
+  padding: 30px;
+  padding-top: 80px;
+}
+.f1 input{
+  background-color: white;
+}
+.copyright{
+  text-align: center ;
+  padding: 5px;
+  background-color: white;
+}
